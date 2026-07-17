@@ -4,4 +4,4 @@
 // console.log(typeof"shivam");
 // console.log(typeof null);
 // console.log(typeof"undefined");
- console.log(typeof 11)
+ console.log(typeof 11) 
