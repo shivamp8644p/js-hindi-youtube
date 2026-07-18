@@ -7,13 +7,13 @@ const repocount = 50
 
 const gamename = new String('shivammm-pandey-com')
 
-// console.log(gamename[0]);
-// console.log(gamename.__proto__);
+console.log(gamename[0]);
+console.log(gamename.__proto__);
 
-// console.log(gamename.length);
-// console.log(gamename.toUpperCase());
-// console.log(gamename.charAt(4));
-// console.log(gamename.indexOf('a'));
+console.log(gamename.length);
+console.log(gamename.toUpperCase());
+console.log(gamename.charAt(4));
+console.log(gamename.indexOf('a'));
 
 
 const newString = gamename.substring(0,4)
