@@ -8,14 +8,20 @@ console.log(myArr[1]);
 
 //Array method
 
-// myArr.push(6)
-// myArr.pop()
+myArr.push(6)
+console.log(myArr)
+myArr.pop()
+console.log(myArr)
 
-// myArr.unshift(6)
-// myArr.shift()
+myArr.unshift(6)
+console.log(myArr);
 
-// console.log(myArr.includes(9))
-// console.log(myArr.indexOf(3))
+myArr.shift()
+console.log(myArr);
+
+
+console.log(myArr.includes(9))
+console.log(myArr.indexOf(3))
 
 
 // const newArr = myArr.join()
@@ -26,12 +32,12 @@ console.log(myArr[1]);
 
 //***  slice, splice */
 
-console.log("A", myArr);
+// console.log("A", myArr);
 
-const myn1 = myArr.slice(1,4)
-console.log(myn1)
-console.log("B", myArr)
+// const myn1 = myArr.slice(1,4)
+// console.log(myn1)
+// console.log("B", myArr)
 
-const myn2 = myArr.splice(1,4)
-console.log("C", myArr)
-console.log(myn2)
+// const myn2 = myArr.splice(1,4)
+// console.log("C", myArr)
+// console.log(myn2)
